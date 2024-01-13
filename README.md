@@ -1,5 +1,7 @@
 # Dona Facil - Backend Repository
 
+The Backend of Dona Facil is the core engine driving the application. Developed with .NET, it handles user management, item services, database interactions, and provides the necessary APIs for the frontend and mobile applications. This repository focuses on server-side logic, ensuring security, performance, and scalability.
+
 ### **Overview**
 
 The backend architecture of Dona Facil is built with efficiency, security, and scalability in mind. Key components and functionalities include:
